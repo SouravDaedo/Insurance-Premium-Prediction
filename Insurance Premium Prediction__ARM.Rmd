@@ -1,0 +1,154 @@
+---
+title: "ARM - Apriori Algorithm - Insurance Premium Prediction"
+author: "Ahilan Balakrishnan"
+output: html_document
+---
+
+# ARM - Apriori Algorithm Explained with Coding
+
+```{r}
+#install.packages("arules")
+#install.packages("arulesViz")
+library(arules)
+library(arulesViz)
+```
+
+We are now going to observe transactions in the form of an item matrix with 1338 rows and 7columns.
+
+```{r}
+df<-read.csv(file.choose())
+df
+```
+
+## Data preparation:
+
+It is important to note that ARM is typically used for categorical data, where items or attributes are binary (present/absent) or nominal (belonging to a set of categories). In this dataset, some of the attributes are numerical, such as age, bmi, children, and expenses.
+
+To apply ARM on this dataset, you could first discretize the numerical attributes into categories. For example:
+
+-   age groups (e.g., 18-25, 26-35, 36-45, etc.)
+
+-   bmi categories (e.g., underweight, normal weight, overweight, obese)
+
+-   children categories (e.g., 0, 1-2, 3 or more)
+
+-   Expenses criteria (e.g., low, medium, high).
+
+### Stage:1 making age groups (e.g., 18-25, 26-35, 36-45, etc.)
+
+```{r}
+# create age groups
+df$age_group <- cut(df$age, breaks = c(17, 30, 40, 50, 60, Inf), 
+                            labels = c("18-30", "31-40", "41-50", "51-60", "60+"))
+df
+```
+
+### Stage:2 making group based on bmi
+
+By using World Health Organization (WHO) classification the BMI variable into several categories,
+
+such as
+
+-   under weight (BMI \< 18.5),
+
+-   normal weight (BMI 18.5-24.9),
+
+-   over weight (BMI 25-29.9),
+
+-   and obese (BMI \>= 30).
+
+```{r}
+df$bmi_group <- cut(df$bmi, breaks = c(0, 18.5, 24.9, 29.9, Inf),
+                    labels = c("Under weight", "Normal weight", "Over weight", "Obese"))
+df
+```
+
+### Stage:3 making group based on number of children
+
+-   No children
+
+-   1_child
+
+-   2_children
+
+-   3_children
+
+-   4+\_children
+
+```{r}
+# Create a new column 'children_group'
+df$children_group <- cut(df$children,
+                                      breaks = c(-Inf, 0, 1, 2, 3, Inf),
+                                      labels = c("No children", "1_child","2_children", "3_children", "4+_children"))
+
+df
+
+```
+
+### Stage 4: based on expenses
+
+-   low expenses,
+
+-   medium-low expenses
+
+-   medium-high expenses,
+
+-   high expenses
+
+```{r}
+# Breaking the expenses based on quartiles of the expenses variable
+
+expenses_break <- quantile(df$expenses, probs = c(0, 0.25, 0.5, 0.75, 1))
+
+# Discretize the expenses variable into four categories based on quartiles
+
+df$expenses_group <- cut(df$expenses, breaks = expenses_break, labels = c("Low Expenses", "Medium-Low Expenses", "Medium-High Expenses", "High Expenses"))
+
+df
+
+```
+
+After all changes the final dataset
+
+```{r}
+df
+```
+
+###Final data set contain only categorical value
+
+In this dropping the all column which having numerical values
+
+```{r}
+#Dropping the column which having numerical value
+df <- subset(df, select = -c(age, expenses, bmi,children))
+df
+```
+
+## Performing ARM-Apiroir for different cases:
+
+### case 1:
+
+Analyzing the insurance dataset for the frequency of **smokers** in different regions can provide insights into the prevalence of smoking habits in those regions. Specifically, by focusing on individuals who smoke and reside in the **southeast, southwest, northwest, and northeast regions**, we can determine which regions have a higher incidence of smoking.
+
+These findings can then be used to develop targeted smoking campaigns to reduce the incidence of smoking-related health issues in those regions and to promote healthier behaviors . Identifying the areas with high prevalence of smokers is a crucial step towards creating evidence-based policies and interventions to improve public health outcomes.
+
+```{r}
+# Create a subset of the data with only smoker=yes and the specified regions
+
+case1_df<- subset(df, smoker == "yes" & region %in% c("southeast", "southwest", "northwest", "northeast"),select=c( "smoker","region"))
+
+case1_df
+```
+
+```{r}
+
+rule1 <- apriori(case1_df, parameter=list(suppor = 0.02, confidence = 0.8))
+
+inspect(head(rule1,5))
+```
+
+```{r}
+plot(rule1, method="graph")
+```
+
+![](http://127.0.0.1:32067/chunk_output/A3F3C556441a3ea7/30414ED7/cf8difxjh1yd6/000012.png)
