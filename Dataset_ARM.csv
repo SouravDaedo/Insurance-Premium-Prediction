@@ -1,0 +1,1339 @@
+sex,smoker,region,age_group,bmi_group,children_group,expenses_group
+female,yes,southwest,18-30,Over weight,No children,High Expenses
+male,no,southeast,18-30,Obese,1_child,Low Expenses
+male,no,southeast,18-30,Obese,3_children,Low Expenses
+male,no,northwest,31-40,Normal weight,No children,High Expenses
+male,no,northwest,31-40,Over weight,No children,Low Expenses
+female,no,southeast,31-40,Over weight,No children,Low Expenses
+female,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,northwest,31-40,Over weight,3_children,Medium-Low Expenses
+male,no,northeast,31-40,Over weight,2_children,Medium-Low Expenses
+female,no,northwest,51-60,Over weight,No children,High Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+female,yes,southeast,60+,Over weight,No children,High Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+female,no,southeast,51-60,Obese,No children,Medium-High Expenses
+male,yes,southeast,18-30,Obese,No children,High Expenses
+male,no,southwest,18-30,Normal weight,1_child,Low Expenses
+female,no,northeast,51-60,Obese,1_child,Medium-High Expenses
+male,no,northeast,18-30,Normal weight,No children,Low Expenses
+male,no,southwest,51-60,Obese,No children,Medium-High Expenses
+male,yes,southwest,18-30,Obese,No children,High Expenses
+female,no,northeast,51-60,Obese,No children,Medium-High Expenses
+female,no,southwest,18-30,Obese,1_child,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,yes,northeast,31-40,Obese,1_child,High Expenses
+male,no,northwest,31-40,Over weight,2_children,Medium-Low Expenses
+female,no,southeast,51-60,Over weight,3_children,Medium-High Expenses
+female,no,northeast,60+,Normal weight,No children,Medium-High Expenses
+female,no,northwest,51-60,Obese,2_children,Medium-High Expenses
+male,no,northwest,18-30,Under weight,1_child,Low Expenses
+male,yes,southwest,31-40,Obese,2_children,High Expenses
+male,yes,southwest,18-30,Obese,No children,High Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,southwest,18-30,Over weight,4+_children,Low Expenses
+male,no,northwest,60+,Over weight,No children,Medium-High Expenses
+male,yes,southwest,18-30,Obese,1_child,High Expenses
+male,no,northwest,18-30,Normal weight,No children,Low Expenses
+female,no,northwest,60+,Obese,3_children,Medium-High Expenses
+male,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,yes,northeast,31-40,Obese,1_child,High Expenses
+male,yes,southwest,51-60,Obese,No children,High Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+male,no,southeast,41-50,Normal weight,1_child,Medium-Low Expenses
+female,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+male,no,northeast,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southwest,51-60,Obese,No children,High Expenses
+female,no,northeast,18-30,Obese,2_children,Low Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,southeast,51-60,Normal weight,No children,Medium-High Expenses
+male,yes,southeast,31-40,Obese,1_child,High Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,northwest,18-30,Obese,2_children,Low Expenses
+male,yes,southwest,41-50,Over weight,1_child,High Expenses
+male,yes,southeast,31-40,Obese,No children,High Expenses
+female,no,northwest,31-40,Over weight,3_children,Medium-Low Expenses
+male,yes,northwest,51-60,Obese,2_children,High Expenses
+female,no,northeast,51-60,Obese,2_children,Medium-High Expenses
+male,yes,southeast,18-30,Obese,2_children,High Expenses
+female,yes,southeast,51-60,Normal weight,1_child,High Expenses
+female,no,northwest,31-40,Obese,2_children,Medium-Low Expenses
+male,no,northeast,41-50,Over weight,3_children,Medium-Low Expenses
+male,no,southeast,18-30,Obese,4+_children,Low Expenses
+male,no,northwest,60+,Normal weight,1_child,High Expenses
+female,no,northwest,18-30,Over weight,1_child,Low Expenses
+female,yes,northwest,18-30,Normal weight,No children,Medium-High Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+female,no,southwest,60+,Obese,2_children,Medium-High Expenses
+male,no,northwest,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,southeast,31-40,Obese,No children,Medium-Low Expenses
+male,yes,southeast,18-30,Normal weight,3_children,High Expenses
+female,yes,southeast,18-30,Normal weight,No children,Medium-High Expenses
+male,no,northeast,31-40,Over weight,4+_children,Medium-Low Expenses
+female,no,southwest,51-60,Over weight,3_children,Medium-High Expenses
+male,no,southeast,51-60,Obese,1_child,Medium-High Expenses
+male,no,southwest,41-50,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,51-60,Obese,No children,Medium-High Expenses
+female,no,southeast,18-30,Over weight,1_child,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,northwest,41-50,Obese,No children,Medium-Low Expenses
+male,no,northeast,31-40,Over weight,1_child,Low Expenses
+female,no,northeast,41-50,Obese,No children,Medium-Low Expenses
+male,yes,southeast,18-30,Obese,1_child,High Expenses
+female,no,northwest,41-50,Obese,4+_children,Medium-High Expenses
+female,yes,southwest,31-40,Obese,2_children,High Expenses
+male,yes,northwest,41-50,Normal weight,2_children,High Expenses
+female,yes,northwest,51-60,Obese,No children,High Expenses
+female,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,northwest,41-50,Over weight,No children,Medium-Low Expenses
+female,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,northwest,51-60,Normal weight,1_child,Medium-High Expenses
+male,yes,northeast,51-60,Over weight,3_children,High Expenses
+male,no,northwest,31-40,Obese,2_children,Medium-Low Expenses
+female,yes,southwest,60+,Obese,2_children,High Expenses
+female,no,southeast,18-30,Obese,1_child,Low Expenses
+female,no,southwest,51-60,Obese,3_children,Medium-High Expenses
+male,no,southeast,51-60,Obese,No children,Medium-High Expenses
+male,yes,northeast,51-60,Normal weight,No children,High Expenses
+male,yes,southwest,31-40,Normal weight,No children,Medium-High Expenses
+female,no,southwest,41-50,Obese,No children,Medium-Low Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,northeast,18-30,Obese,No children,High Expenses
+female,yes,southeast,60+,Over weight,3_children,High Expenses
+female,no,southwest,31-40,Over weight,1_child,Medium-Low Expenses
+male,yes,northwest,18-30,Over weight,1_child,High Expenses
+female,no,southwest,18-30,Over weight,1_child,Low Expenses
+male,no,northwest,18-30,Obese,2_children,Low Expenses
+male,no,southeast,18-30,Over weight,No children,Low Expenses
+male,yes,southeast,60+,Obese,No children,High Expenses
+male,no,northwest,51-60,Obese,1_child,Medium-High Expenses
+female,no,southwest,51-60,Over weight,2_children,Medium-High Expenses
+male,no,southwest,31-40,Obese,No children,Low Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,northeast,51-60,Obese,3_children,Medium-High Expenses
+male,no,northeast,51-60,Over weight,No children,High Expenses
+male,no,southeast,51-60,Obese,No children,Medium-High Expenses
+female,yes,southeast,18-30,Over weight,1_child,High Expenses
+female,no,southeast,41-50,Over weight,No children,Medium-Low Expenses
+female,no,northwest,31-40,Normal weight,2_children,Medium-Low Expenses
+male,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,northeast,18-30,Normal weight,No children,Low Expenses
+female,no,northwest,18-30,Over weight,No children,Low Expenses
+male,yes,northeast,41-50,Obese,1_child,High Expenses
+female,no,northwest,41-50,Obese,3_children,Medium-High Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,yes,southwest,18-30,Over weight,No children,High Expenses
+female,no,southwest,51-60,Obese,No children,Medium-High Expenses
+female,yes,northwest,31-40,Under weight,2_children,High Expenses
+male,no,southwest,31-40,Obese,2_children,Medium-Low Expenses
+female,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+female,no,northeast,60+,Normal weight,No children,Medium-High Expenses
+female,no,southwest,51-60,Obese,2_children,Medium-High Expenses
+male,no,northwest,18-30,Over weight,No children,Low Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,southeast,18-30,Over weight,No children,Low Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,northwest,18-30,Over weight,No children,Low Expenses
+female,no,southeast,51-60,Obese,3_children,High Expenses
+female,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,northeast,31-40,Normal weight,2_children,High Expenses
+male,no,northeast,18-30,Obese,1_child,Low Expenses
+male,yes,southeast,31-40,Over weight,2_children,High Expenses
+male,no,northwest,18-30,Over weight,2_children,High Expenses
+male,yes,northwest,18-30,Over weight,3_children,High Expenses
+female,no,southeast,18-30,Obese,3_children,Medium-Low Expenses
+male,yes,northwest,41-50,Obese,3_children,High Expenses
+female,no,southeast,51-60,Obese,1_child,Medium-High Expenses
+female,no,northwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,southwest,18-30,Over weight,1_child,Low Expenses
+male,no,northwest,31-40,Normal weight,1_child,Medium-Low Expenses
+male,no,southeast,41-50,Over weight,No children,Medium-Low Expenses
+female,no,northeast,31-40,Obese,3_children,Medium-Low Expenses
+female,yes,northeast,41-50,Normal weight,No children,High Expenses
+female,no,northeast,31-40,Over weight,1_child,Medium-Low Expenses
+male,no,northwest,41-50,Obese,No children,Medium-Low Expenses
+male,yes,southeast,41-50,Normal weight,No children,High Expenses
+male,yes,northeast,18-30,Over weight,No children,Medium-High Expenses
+male,yes,southeast,18-30,Obese,No children,High Expenses
+female,no,southeast,41-50,Over weight,3_children,High Expenses
+female,yes,northwest,41-50,Over weight,No children,High Expenses
+female,yes,southeast,18-30,Obese,No children,High Expenses
+male,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+female,no,southwest,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,31-40,Over weight,No children,Medium-Low Expenses
+male,no,northeast,41-50,Over weight,4+_children,Medium-High Expenses
+female,no,southwest,18-30,Obese,4+_children,Medium-Low Expenses
+female,no,northwest,31-40,Obese,3_children,Medium-Low Expenses
+female,no,northwest,18-30,Obese,1_child,Low Expenses
+male,no,northeast,18-30,Normal weight,3_children,Medium-Low Expenses
+male,no,southeast,60+,Obese,No children,Medium-High Expenses
+male,no,southwest,41-50,Obese,No children,Medium-Low Expenses
+male,no,northeast,18-30,Under weight,No children,Low Expenses
+female,no,southwest,31-40,Obese,1_child,Medium-Low Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+female,yes,southwest,60+,Obese,No children,High Expenses
+male,no,northwest,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,southwest,51-60,Over weight,1_child,Medium-High Expenses
+female,no,southwest,41-50,Over weight,2_children,Medium-Low Expenses
+female,no,northeast,41-50,Obese,3_children,Medium-Low Expenses
+male,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northeast,18-30,Normal weight,3_children,Low Expenses
+female,no,northwest,41-50,Over weight,No children,Medium-Low Expenses
+male,no,southeast,41-50,Obese,2_children,Medium-Low Expenses
+male,yes,northeast,31-40,Obese,3_children,High Expenses
+female,no,southeast,18-30,Over weight,2_children,Low Expenses
+female,no,southwest,18-30,Obese,3_children,Medium-Low Expenses
+female,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+female,no,northwest,18-30,Obese,2_children,Medium-Low Expenses
+male,no,southeast,60+,Obese,No children,Medium-High Expenses
+female,no,southwest,31-40,Over weight,No children,Medium-Low Expenses
+male,no,southeast,18-30,Over weight,No children,Low Expenses
+female,no,northwest,51-60,Over weight,1_child,Medium-High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,southwest,31-40,Obese,No children,Medium-Low Expenses
+female,no,southeast,41-50,Over weight,2_children,Medium-Low Expenses
+female,no,northwest,51-60,Under weight,No children,Medium-High Expenses
+female,no,northeast,60+,Obese,No children,Medium-High Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,northwest,51-60,Normal weight,No children,Medium-High Expenses
+female,yes,southeast,18-30,Obese,No children,High Expenses
+male,no,southwest,41-50,Normal weight,No children,Medium-Low Expenses
+female,no,northeast,18-30,Over weight,1_child,Low Expenses
+male,no,southeast,51-60,Over weight,No children,Medium-High Expenses
+male,yes,northeast,31-40,Over weight,2_children,High Expenses
+female,no,southwest,60+,Obese,No children,Medium-High Expenses
+male,no,northeast,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southwest,18-30,Obese,1_child,Low Expenses
+male,no,northwest,31-40,Obese,4+_children,Medium-Low Expenses
+male,no,northwest,18-30,Over weight,2_children,Low Expenses
+female,no,southeast,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+female,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+female,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+male,no,southeast,18-30,Normal weight,No children,Low Expenses
+female,no,southeast,18-30,Over weight,1_child,Low Expenses
+female,no,southeast,18-30,Normal weight,No children,High Expenses
+female,no,southwest,31-40,Obese,1_child,Medium-Low Expenses
+female,no,northeast,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,31-40,Obese,3_children,Medium-Low Expenses
+male,yes,southwest,18-30,Obese,No children,High Expenses
+male,yes,southeast,41-50,Normal weight,No children,High Expenses
+male,no,southeast,51-60,Obese,3_children,Medium-High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,southeast,51-60,Obese,No children,High Expenses
+female,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northeast,41-50,Over weight,2_children,Medium-Low Expenses
+female,no,northwest,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southeast,51-60,Over weight,3_children,Medium-High Expenses
+female,no,southwest,18-30,Under weight,No children,Low Expenses
+male,no,southwest,51-60,Over weight,1_child,Medium-High Expenses
+male,no,northwest,31-40,Normal weight,2_children,Medium-Low Expenses
+female,yes,southeast,31-40,Normal weight,2_children,High Expenses
+female,no,southeast,18-30,Over weight,No children,Low Expenses
+male,no,southeast,31-40,Obese,2_children,Low Expenses
+male,yes,northwest,18-30,Over weight,No children,High Expenses
+male,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,yes,northeast,18-30,Obese,2_children,High Expenses
+female,no,northeast,31-40,Normal weight,1_child,Medium-Low Expenses
+female,no,southwest,51-60,Over weight,1_child,High Expenses
+male,no,southwest,31-40,Obese,3_children,Medium-Low Expenses
+female,yes,northeast,60+,Over weight,No children,High Expenses
+male,no,northwest,51-60,Obese,No children,High Expenses
+female,no,southeast,51-60,Obese,No children,Medium-High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,southwest,18-30,Normal weight,1_child,Low Expenses
+male,no,northeast,18-30,Over weight,1_child,Low Expenses
+male,yes,northeast,18-30,Under weight,2_children,Medium-High Expenses
+female,yes,southwest,60+,Obese,2_children,High Expenses
+male,yes,southeast,51-60,Obese,2_children,High Expenses
+male,no,southwest,18-30,Obese,3_children,Low Expenses
+male,yes,northeast,41-50,Obese,No children,High Expenses
+female,no,northeast,51-60,Over weight,3_children,Medium-High Expenses
+male,yes,northwest,51-60,Obese,No children,High Expenses
+female,no,southeast,31-40,Obese,No children,Medium-Low Expenses
+male,no,northwest,51-60,Normal weight,4+_children,Medium-High Expenses
+male,yes,northwest,18-30,Obese,No children,High Expenses
+female,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+female,yes,southeast,18-30,Over weight,1_child,High Expenses
+male,yes,northeast,51-60,Normal weight,3_children,High Expenses
+male,yes,northwest,18-30,Obese,No children,High Expenses
+female,no,southeast,51-60,Obese,3_children,High Expenses
+male,yes,southeast,41-50,Obese,3_children,High Expenses
+male,yes,southeast,31-40,Normal weight,1_child,High Expenses
+female,no,northeast,51-60,Obese,3_children,Medium-High Expenses
+male,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northeast,41-50,Over weight,1_child,Medium-Low Expenses
+male,no,southeast,18-30,Over weight,1_child,Low Expenses
+male,yes,southwest,41-50,Obese,2_children,High Expenses
+male,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,northeast,41-50,Over weight,1_child,Medium-High Expenses
+male,no,northwest,18-30,Over weight,No children,Low Expenses
+female,no,northeast,41-50,Over weight,2_children,Medium-High Expenses
+male,no,northwest,18-30,Normal weight,2_children,Low Expenses
+female,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,no,southeast,51-60,Obese,2_children,Medium-High Expenses
+female,no,southeast,51-60,Normal weight,1_child,Medium-High Expenses
+female,yes,northeast,31-40,Over weight,1_child,High Expenses
+male,yes,northeast,51-60,Obese,3_children,High Expenses
+male,no,northeast,18-30,Over weight,1_child,Low Expenses
+female,no,northeast,51-60,Obese,1_child,Medium-High Expenses
+female,no,southwest,51-60,Obese,No children,Medium-High Expenses
+male,no,southeast,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,northeast,41-50,Obese,2_children,Medium-High Expenses
+female,no,northwest,60+,Over weight,No children,Medium-High Expenses
+female,yes,northeast,51-60,Obese,1_child,High Expenses
+male,no,southeast,51-60,Over weight,3_children,High Expenses
+female,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,northeast,18-30,Over weight,1_child,High Expenses
+male,yes,southeast,18-30,Obese,2_children,High Expenses
+female,no,southeast,18-30,Over weight,No children,Low Expenses
+male,no,southwest,18-30,Over weight,3_children,Low Expenses
+male,no,northeast,18-30,Normal weight,No children,Low Expenses
+male,yes,southwest,18-30,Over weight,No children,Medium-High Expenses
+male,yes,southeast,41-50,Over weight,1_child,High Expenses
+male,yes,northwest,31-40,Obese,3_children,High Expenses
+female,no,northwest,41-50,Over weight,1_child,Medium-Low Expenses
+male,no,northeast,31-40,Over weight,3_children,Medium-Low Expenses
+female,yes,northeast,51-60,Normal weight,3_children,High Expenses
+female,no,southeast,51-60,Obese,2_children,Medium-High Expenses
+female,no,southeast,18-30,Obese,2_children,Low Expenses
+female,no,southwest,51-60,Obese,2_children,Medium-High Expenses
+male,no,northwest,18-30,Obese,2_children,High Expenses
+female,no,southwest,18-30,Over weight,2_children,High Expenses
+female,no,southeast,18-30,Obese,1_child,Low Expenses
+male,no,northeast,51-60,Obese,No children,Medium-High Expenses
+female,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,southwest,41-50,Over weight,No children,Medium-Low Expenses
+female,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,yes,southeast,41-50,Obese,3_children,High Expenses
+male,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+female,yes,southwest,18-30,Obese,No children,High Expenses
+male,no,northeast,51-60,Obese,No children,Medium-High Expenses
+male,no,northwest,41-50,Obese,No children,Medium-Low Expenses
+male,no,northeast,51-60,Obese,No children,Medium-High Expenses
+female,no,northwest,41-50,Over weight,No children,Medium-Low Expenses
+male,no,northeast,31-40,Obese,1_child,Low Expenses
+male,no,northwest,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,northeast,18-30,Over weight,4+_children,High Expenses
+male,yes,southwest,31-40,Obese,No children,High Expenses
+male,no,northeast,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,18-30,Over weight,No children,Low Expenses
+male,no,northeast,31-40,Obese,1_child,Medium-Low Expenses
+female,no,southeast,18-30,Normal weight,1_child,Low Expenses
+male,yes,northwest,41-50,Obese,2_children,High Expenses
+female,yes,southwest,60+,Obese,1_child,High Expenses
+male,no,southwest,51-60,Obese,No children,Medium-Low Expenses
+female,yes,northeast,60+,Obese,1_child,High Expenses
+male,yes,northwest,51-60,Over weight,No children,High Expenses
+female,no,northwest,60+,Obese,No children,Medium-High Expenses
+female,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+female,no,northeast,41-50,Obese,2_children,High Expenses
+male,no,southwest,60+,Obese,No children,Medium-High Expenses
+male,no,southeast,51-60,Over weight,No children,Medium-High Expenses
+male,no,northwest,60+,Over weight,1_child,Medium-High Expenses
+male,yes,northeast,41-50,Obese,1_child,High Expenses
+female,no,southeast,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,18-30,Over weight,No children,High Expenses
+male,no,northwest,60+,Obese,No children,Medium-High Expenses
+female,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+male,no,northeast,60+,Obese,No children,Medium-High Expenses
+female,no,southeast,41-50,Obese,4+_children,Medium-High Expenses
+female,no,southeast,31-40,Over weight,3_children,Medium-Low Expenses
+male,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+male,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southeast,31-40,Over weight,1_child,Medium-Low Expenses
+male,no,northwest,18-30,Over weight,No children,Low Expenses
+female,no,northwest,51-60,Normal weight,No children,Medium-High Expenses
+female,no,southwest,41-50,Over weight,No children,Medium-Low Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+male,no,northeast,31-40,Obese,No children,Medium-High Expenses
+female,no,southeast,18-30,Obese,No children,Medium-High Expenses
+male,no,southwest,41-50,Over weight,No children,High Expenses
+male,no,southeast,41-50,Obese,3_children,Medium-Low Expenses
+male,no,northwest,41-50,Over weight,3_children,Medium-High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,southeast,18-30,Normal weight,No children,Low Expenses
+female,no,northeast,41-50,Obese,2_children,Medium-High Expenses
+male,no,southwest,31-40,Obese,1_child,Medium-Low Expenses
+female,yes,southwest,18-30,Normal weight,No children,Medium-High Expenses
+female,no,southwest,18-30,Over weight,1_child,Low Expenses
+female,no,southeast,18-30,Normal weight,2_children,Low Expenses
+female,no,northeast,41-50,Obese,1_child,Medium-High Expenses
+female,no,northeast,51-60,Obese,3_children,Medium-High Expenses
+female,no,northwest,41-50,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,northeast,18-30,Obese,3_children,Low Expenses
+female,no,northwest,60+,Normal weight,No children,Medium-High Expenses
+female,no,northeast,51-60,Normal weight,No children,Medium-High Expenses
+female,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+male,yes,southwest,18-30,Obese,2_children,High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,yes,northwest,18-30,Over weight,No children,High Expenses
+female,yes,northeast,31-40,Normal weight,3_children,High Expenses
+male,yes,southeast,18-30,Obese,No children,High Expenses
+female,no,northwest,60+,Obese,3_children,Medium-High Expenses
+male,no,southeast,60+,Obese,1_child,High Expenses
+female,yes,northeast,18-30,Under weight,2_children,Medium-High Expenses
+male,yes,northeast,51-60,Obese,No children,High Expenses
+male,no,southeast,51-60,Obese,No children,High Expenses
+female,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+male,no,northeast,41-50,Normal weight,2_children,Medium-Low Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+female,no,southeast,51-60,Obese,No children,Medium-High Expenses
+male,no,northwest,41-50,Over weight,2_children,High Expenses
+female,no,northwest,18-30,Normal weight,No children,Low Expenses
+female,no,northwest,18-30,Obese,3_children,Low Expenses
+male,no,northeast,41-50,Obese,4+_children,Medium-High Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,northeast,41-50,Obese,2_children,Medium-High Expenses
+male,no,northwest,41-50,Normal weight,No children,Medium-Low Expenses
+female,no,southwest,41-50,Obese,3_children,Medium-Low Expenses
+male,no,southeast,18-30,Obese,No children,Medium-High Expenses
+male,no,southwest,60+,Over weight,2_children,Medium-High Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,southwest,51-60,Normal weight,No children,Medium-Low Expenses
+male,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,northwest,60+,Obese,No children,Medium-High Expenses
+male,no,northwest,41-50,Obese,3_children,Medium-High Expenses
+male,no,southwest,31-40,Normal weight,No children,Low Expenses
+female,no,northeast,51-60,Obese,2_children,Medium-High Expenses
+female,no,southeast,31-40,Normal weight,No children,Low Expenses
+female,no,southwest,41-50,Normal weight,1_child,Medium-Low Expenses
+male,no,southeast,31-40,Normal weight,3_children,Medium-Low Expenses
+male,no,southeast,31-40,Obese,1_child,Low Expenses
+male,no,northwest,18-30,Under weight,No children,Low Expenses
+female,yes,northeast,41-50,Normal weight,1_child,High Expenses
+female,yes,northeast,18-30,Under weight,2_children,Medium-High Expenses
+male,no,southwest,18-30,Normal weight,4+_children,Medium-Low Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+male,no,southeast,51-60,Obese,No children,Medium-Low Expenses
+female,yes,southwest,31-40,Normal weight,2_children,High Expenses
+male,no,southeast,60+,Obese,1_child,Medium-High Expenses
+female,yes,northwest,60+,Over weight,No children,High Expenses
+male,yes,southeast,60+,Obese,No children,High Expenses
+male,yes,southeast,60+,Obese,No children,High Expenses
+male,yes,northeast,31-40,Obese,1_child,High Expenses
+male,no,northeast,18-30,Obese,No children,Low Expenses
+male,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,southeast,41-50,Normal weight,4+_children,Medium-High Expenses
+female,no,northeast,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,northeast,18-30,Over weight,No children,Medium-Low Expenses
+female,no,northeast,18-30,Under weight,1_child,Low Expenses
+female,no,northwest,18-30,Obese,3_children,High Expenses
+male,no,southwest,18-30,Obese,No children,High Expenses
+female,no,northwest,18-30,Normal weight,2_children,Medium-Low Expenses
+male,no,southwest,41-50,Over weight,No children,Medium-Low Expenses
+female,no,southwest,51-60,Obese,No children,Medium-High Expenses
+male,no,northwest,31-40,Over weight,1_child,Low Expenses
+male,no,southeast,51-60,Obese,3_children,Medium-High Expenses
+male,no,northeast,18-30,Obese,No children,Low Expenses
+male,no,southwest,31-40,Over weight,3_children,Medium-Low Expenses
+female,no,southeast,51-60,Obese,4+_children,Medium-High Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,northwest,31-40,Obese,1_child,Low Expenses
+female,yes,southwest,31-40,Obese,No children,High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,southeast,51-60,Obese,1_child,High Expenses
+male,yes,northwest,51-60,Over weight,1_child,High Expenses
+female,no,southwest,41-50,Obese,No children,Medium-Low Expenses
+male,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+female,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,southwest,31-40,Over weight,No children,Medium-Low Expenses
+male,no,southwest,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southwest,31-40,Over weight,4+_children,Medium-Low Expenses
+male,no,northwest,18-30,Normal weight,1_child,Low Expenses
+male,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,no,northwest,18-30,Over weight,No children,Low Expenses
+male,no,southeast,31-40,Obese,2_children,Low Expenses
+male,no,southwest,51-60,Obese,No children,High Expenses
+female,no,southeast,51-60,Obese,2_children,Medium-High Expenses
+female,no,northwest,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,51-60,Obese,No children,Medium-High Expenses
+female,no,southeast,31-40,Obese,3_children,Medium-Low Expenses
+female,no,southeast,41-50,Obese,3_children,Medium-High Expenses
+male,yes,southwest,41-50,Obese,No children,High Expenses
+female,no,northeast,60+,Obese,2_children,Medium-High Expenses
+male,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+male,no,northwest,18-30,Over weight,No children,Low Expenses
+female,yes,southeast,18-30,Over weight,1_child,High Expenses
+female,no,southwest,51-60,Over weight,1_child,Medium-High Expenses
+female,no,northwest,51-60,Obese,2_children,Medium-High Expenses
+female,no,northeast,18-30,Normal weight,1_child,High Expenses
+female,no,southeast,18-30,Normal weight,1_child,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+female,no,northeast,41-50,Obese,No children,High Expenses
+male,yes,southwest,51-60,Over weight,3_children,High Expenses
+male,yes,northwest,60+,Over weight,1_child,High Expenses
+male,yes,northeast,18-30,Over weight,No children,High Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northwest,60+,Obese,3_children,Medium-High Expenses
+male,no,southeast,41-50,Obese,2_children,Medium-Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,southwest,41-50,Obese,3_children,Medium-High Expenses
+female,no,northeast,31-40,Obese,No children,Low Expenses
+female,no,northwest,51-60,Normal weight,3_children,Medium-High Expenses
+male,no,southwest,18-30,Over weight,No children,Low Expenses
+female,yes,southeast,41-50,Obese,No children,High Expenses
+male,no,northwest,51-60,Obese,1_child,Medium-High Expenses
+female,no,southwest,18-30,Obese,No children,Low Expenses
+female,no,southeast,60+,Over weight,No children,High Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+male,no,southwest,60+,Obese,No children,Medium-High Expenses
+male,yes,southwest,18-30,Over weight,4+_children,High Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,southwest,31-40,Normal weight,2_children,Medium-Low Expenses
+male,no,southwest,41-50,Over weight,2_children,Medium-Low Expenses
+female,no,southeast,41-50,Normal weight,2_children,Medium-Low Expenses
+female,no,southwest,60+,Obese,No children,Medium-High Expenses
+male,yes,southwest,18-30,Obese,No children,High Expenses
+male,no,northeast,41-50,Over weight,No children,Medium-Low Expenses
+male,yes,southeast,51-60,Normal weight,1_child,High Expenses
+male,yes,southeast,18-30,Obese,No children,High Expenses
+female,no,southeast,31-40,Over weight,1_child,Medium-Low Expenses
+male,no,northwest,31-40,Obese,3_children,Medium-Low Expenses
+male,no,northwest,18-30,Obese,1_child,Low Expenses
+male,no,northwest,18-30,Normal weight,2_children,Low Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+male,no,northeast,51-60,Obese,1_child,Medium-High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northeast,51-60,Normal weight,No children,Medium-Low Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+male,yes,southwest,31-40,Over weight,1_child,High Expenses
+male,no,southwest,51-60,Obese,No children,Medium-High Expenses
+male,no,southeast,18-30,Obese,1_child,High Expenses
+male,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+female,no,southwest,31-40,Obese,1_child,Medium-Low Expenses
+male,no,northeast,31-40,Obese,No children,Low Expenses
+female,no,northeast,41-50,Over weight,No children,High Expenses
+female,no,southeast,31-40,Obese,No children,Low Expenses
+female,no,northeast,51-60,Obese,No children,Medium-High Expenses
+female,no,southeast,31-40,Obese,No children,Medium-Low Expenses
+male,yes,southeast,41-50,Over weight,1_child,High Expenses
+female,no,southeast,18-30,Obese,No children,Medium-High Expenses
+female,no,northwest,18-30,Obese,2_children,High Expenses
+female,no,southwest,51-60,Over weight,1_child,Medium-High Expenses
+male,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+male,yes,southeast,51-60,Obese,1_child,High Expenses
+female,no,northeast,60+,Obese,No children,Medium-High Expenses
+male,no,southeast,51-60,Over weight,2_children,Medium-High Expenses
+male,no,southeast,31-40,Obese,No children,High Expenses
+male,no,southeast,60+,Obese,No children,Medium-High Expenses
+male,no,northeast,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,31-40,Obese,3_children,Medium-Low Expenses
+female,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+female,no,southeast,41-50,Over weight,1_child,Medium-Low Expenses
+male,no,southeast,51-60,Obese,No children,High Expenses
+female,no,southwest,31-40,Obese,3_children,Medium-Low Expenses
+female,no,southeast,18-30,Obese,2_children,Low Expenses
+female,no,southeast,60+,Obese,No children,Medium-High Expenses
+female,yes,southeast,51-60,Obese,No children,High Expenses
+male,no,northwest,51-60,Obese,No children,Medium-High Expenses
+male,yes,northwest,41-50,Over weight,2_children,High Expenses
+male,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,southwest,51-60,Obese,2_children,Medium-High Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,yes,southeast,41-50,Obese,No children,High Expenses
+male,no,southwest,60+,Obese,No children,Medium-High Expenses
+female,no,southeast,31-40,Over weight,No children,Low Expenses
+male,no,southwest,60+,Normal weight,No children,Medium-High Expenses
+female,no,northwest,51-60,Obese,2_children,Medium-High Expenses
+female,no,northeast,18-30,Obese,No children,High Expenses
+male,no,southwest,18-30,Normal weight,2_children,Low Expenses
+male,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+male,no,southeast,31-40,Obese,No children,Low Expenses
+female,yes,northwest,31-40,Obese,3_children,High Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,northwest,41-50,Normal weight,2_children,Medium-Low Expenses
+female,no,northeast,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southeast,18-30,Obese,2_children,Low Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,northwest,31-40,Obese,1_child,Medium-Low Expenses
+male,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+female,no,southwest,41-50,Obese,4+_children,Medium-High Expenses
+male,yes,northwest,41-50,Obese,2_children,High Expenses
+female,no,southwest,31-40,Over weight,No children,Low Expenses
+female,no,southeast,18-30,Obese,1_child,Low Expenses
+female,no,southeast,18-30,Obese,2_children,Medium-Low Expenses
+female,no,northeast,60+,Obese,1_child,High Expenses
+female,no,northeast,51-60,Obese,2_children,Medium-High Expenses
+female,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+male,no,southeast,18-30,Over weight,No children,Low Expenses
+female,yes,northeast,31-40,Obese,1_child,High Expenses
+male,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+female,no,northeast,18-30,Normal weight,No children,Low Expenses
+male,no,northeast,51-60,Over weight,1_child,Medium-High Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+female,no,southeast,31-40,Normal weight,1_child,High Expenses
+male,no,southwest,18-30,Normal weight,No children,Low Expenses
+female,no,southeast,31-40,Over weight,1_child,Medium-Low Expenses
+male,no,northeast,18-30,Normal weight,3_children,Low Expenses
+female,yes,northwest,31-40,Obese,1_child,High Expenses
+female,no,northeast,60+,Obese,No children,Medium-High Expenses
+female,no,southeast,31-40,Obese,1_child,Medium-Low Expenses
+female,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+male,no,northwest,41-50,Normal weight,1_child,Medium-Low Expenses
+male,no,southeast,18-30,Obese,2_children,Low Expenses
+female,yes,northeast,18-30,Normal weight,1_child,Medium-High Expenses
+male,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+female,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southeast,41-50,Over weight,2_children,Medium-Low Expenses
+female,no,northeast,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+female,no,northwest,51-60,Obese,2_children,High Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northwest,51-60,Obese,No children,Medium-Low Expenses
+female,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,southeast,60+,Obese,3_children,Medium-High Expenses
+female,yes,northwest,18-30,Over weight,No children,High Expenses
+female,no,southeast,51-60,Obese,No children,Medium-Low Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,yes,northwest,51-60,Normal weight,No children,High Expenses
+male,no,northeast,18-30,Over weight,2_children,Low Expenses
+male,yes,southwest,18-30,Obese,2_children,High Expenses
+female,no,southeast,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,31-40,Obese,2_children,Medium-Low Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,northeast,31-40,Normal weight,3_children,Medium-Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,yes,southeast,41-50,Obese,1_child,High Expenses
+female,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+male,yes,southwest,41-50,Over weight,2_children,High Expenses
+female,yes,southeast,18-30,Obese,No children,High Expenses
+female,no,southwest,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,18-30,Obese,1_child,Low Expenses
+male,yes,southwest,31-40,Obese,4+_children,High Expenses
+female,no,southwest,41-50,Normal weight,1_child,Medium-Low Expenses
+male,yes,northeast,18-30,Obese,No children,High Expenses
+male,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,northwest,18-30,Over weight,No children,Low Expenses
+male,no,northeast,31-40,Over weight,3_children,Medium-Low Expenses
+male,no,southeast,31-40,Obese,1_child,Medium-High Expenses
+male,no,southwest,51-60,Obese,No children,Medium-High Expenses
+female,yes,northwest,41-50,Obese,No children,High Expenses
+male,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,southwest,18-30,Over weight,No children,Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northeast,31-40,Normal weight,2_children,Medium-Low Expenses
+male,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,northeast,60+,Obese,No children,Medium-High Expenses
+female,no,northwest,18-30,Normal weight,1_child,Low Expenses
+female,no,northeast,31-40,Obese,2_children,High Expenses
+male,yes,northeast,31-40,Over weight,No children,High Expenses
+male,no,southeast,51-60,Obese,4+_children,Medium-High Expenses
+male,no,southwest,31-40,Obese,4+_children,Medium-Low Expenses
+male,yes,northwest,41-50,Over weight,3_children,High Expenses
+male,no,northeast,60+,Obese,No children,Medium-High Expenses
+female,no,northwest,18-30,Obese,3_children,Low Expenses
+male,no,southeast,41-50,Obese,2_children,High Expenses
+male,no,northeast,41-50,Obese,3_children,Medium-High Expenses
+male,no,northwest,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,northeast,31-40,Normal weight,3_children,Medium-Low Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,northeast,51-60,Obese,No children,Medium-High Expenses
+female,no,southeast,41-50,Obese,2_children,Medium-High Expenses
+female,no,southeast,51-60,Obese,1_child,Medium-High Expenses
+female,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+female,no,southeast,41-50,Obese,2_children,Medium-Low Expenses
+female,no,southeast,51-60,Obese,No children,Medium-High Expenses
+female,yes,southeast,51-60,Over weight,2_children,High Expenses
+female,no,southwest,18-30,Obese,1_child,Low Expenses
+male,no,northwest,18-30,Obese,2_children,Low Expenses
+female,no,northeast,41-50,Obese,1_child,High Expenses
+female,no,northeast,51-60,Over weight,4+_children,Medium-High Expenses
+male,no,southeast,31-40,Obese,3_children,Medium-Low Expenses
+female,no,southeast,51-60,Normal weight,1_child,High Expenses
+female,no,northeast,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,yes,southeast,60+,Normal weight,No children,High Expenses
+male,yes,southeast,41-50,Obese,2_children,High Expenses
+male,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,yes,northwest,31-40,Obese,2_children,High Expenses
+male,yes,northeast,60+,Obese,No children,High Expenses
+female,no,southeast,31-40,Over weight,1_child,Medium-Low Expenses
+male,no,southeast,18-30,Obese,3_children,Medium-Low Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+male,no,southeast,31-40,Over weight,No children,Low Expenses
+female,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+female,yes,southeast,41-50,Obese,2_children,High Expenses
+male,no,northwest,41-50,Normal weight,No children,Medium-Low Expenses
+female,no,southeast,51-60,Obese,3_children,Medium-High Expenses
+male,yes,northwest,51-60,Obese,3_children,High Expenses
+male,no,southwest,51-60,Obese,3_children,Medium-High Expenses
+female,no,northwest,41-50,Normal weight,2_children,Medium-High Expenses
+female,no,southwest,18-30,Under weight,1_child,Low Expenses
+male,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,yes,southwest,31-40,Obese,2_children,High Expenses
+male,no,northwest,51-60,Normal weight,No children,Medium-High Expenses
+female,no,southwest,31-40,Under weight,1_child,Medium-Low Expenses
+male,no,northeast,51-60,Over weight,2_children,Medium-High Expenses
+male,no,northeast,41-50,Over weight,2_children,Medium-Low Expenses
+male,no,southeast,31-40,Obese,No children,Medium-Low Expenses
+female,no,southwest,41-50,Normal weight,1_child,High Expenses
+male,yes,southeast,18-30,Obese,1_child,High Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+male,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northwest,18-30,Obese,1_child,Low Expenses
+male,no,northwest,18-30,Normal weight,No children,Low Expenses
+female,no,southwest,18-30,Obese,1_child,Low Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,northeast,51-60,Obese,2_children,High Expenses
+male,yes,southeast,41-50,Obese,1_child,High Expenses
+male,no,northwest,51-60,Obese,No children,Medium-High Expenses
+female,no,southeast,18-30,Obese,2_children,Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,northeast,41-50,Obese,No children,Medium-High Expenses
+male,no,southeast,51-60,Obese,No children,Medium-High Expenses
+female,no,northwest,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,northwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,31-40,Obese,2_children,Medium-Low Expenses
+female,yes,southeast,51-60,Obese,No children,High Expenses
+male,no,northwest,41-50,Over weight,3_children,Medium-High Expenses
+female,no,northeast,31-40,Obese,3_children,Medium-Low Expenses
+female,no,northeast,31-40,Over weight,No children,Medium-Low Expenses
+male,no,southeast,18-30,Obese,1_child,Low Expenses
+female,no,southeast,41-50,Normal weight,2_children,Medium-High Expenses
+female,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,northwest,41-50,Normal weight,1_child,Medium-High Expenses
+male,no,northwest,51-60,Normal weight,1_child,Medium-High Expenses
+female,no,northwest,51-60,Obese,2_children,Medium-High Expenses
+female,no,northwest,51-60,Obese,No children,Medium-High Expenses
+female,no,northeast,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,51-60,Obese,3_children,Medium-High Expenses
+male,no,southwest,60+,Obese,No children,Medium-High Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+female,no,northeast,41-50,Over weight,1_child,Medium-High Expenses
+female,yes,southeast,18-30,Obese,3_children,High Expenses
+male,no,northwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,yes,northeast,18-30,Normal weight,1_child,High Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+male,yes,southeast,31-40,Normal weight,3_children,High Expenses
+male,no,southwest,51-60,Normal weight,1_child,Medium-High Expenses
+female,no,southwest,18-30,Obese,3_children,Low Expenses
+female,no,northeast,41-50,Over weight,1_child,Medium-High Expenses
+female,no,southwest,51-60,Obese,3_children,Medium-High Expenses
+female,no,northwest,41-50,Obese,1_child,Medium-High Expenses
+female,yes,southeast,31-40,Obese,No children,High Expenses
+male,no,southwest,18-30,Normal weight,2_children,Low Expenses
+male,yes,northeast,18-30,Obese,3_children,High Expenses
+male,yes,southwest,18-30,Obese,2_children,High Expenses
+male,no,northeast,41-50,Normal weight,2_children,Medium-Low Expenses
+male,yes,southeast,18-30,Over weight,No children,High Expenses
+male,yes,northeast,51-60,Obese,No children,High Expenses
+female,no,southeast,31-40,Over weight,No children,Low Expenses
+male,no,northwest,41-50,Over weight,No children,Medium-Low Expenses
+female,no,northwest,41-50,Obese,1_child,Medium-High Expenses
+male,no,southwest,31-40,Over weight,2_children,Medium-High Expenses
+male,no,northwest,18-30,Normal weight,No children,Low Expenses
+female,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+female,yes,southeast,31-40,Over weight,No children,High Expenses
+male,no,northwest,18-30,Over weight,No children,Low Expenses
+male,no,northwest,60+,Obese,No children,Medium-High Expenses
+female,no,southeast,51-60,Normal weight,No children,Medium-High Expenses
+male,no,northeast,18-30,Obese,4+_children,High Expenses
+male,no,northeast,31-40,Over weight,2_children,Medium-Low Expenses
+female,no,northeast,31-40,Normal weight,3_children,Medium-Low Expenses
+female,yes,southeast,41-50,Over weight,No children,High Expenses
+male,no,northeast,18-30,Obese,3_children,Medium-Low Expenses
+male,yes,southeast,18-30,Obese,No children,High Expenses
+female,no,northeast,18-30,Obese,2_children,Low Expenses
+male,no,southwest,18-30,Obese,1_child,Low Expenses
+male,yes,southwest,31-40,Over weight,1_child,High Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,northeast,41-50,Over weight,2_children,Medium-Low Expenses
+female,no,northwest,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,60+,Obese,No children,Medium-High Expenses
+female,no,northwest,31-40,Normal weight,2_children,Medium-Low Expenses
+male,no,southwest,60+,Obese,3_children,High Expenses
+female,no,southwest,51-60,Over weight,2_children,Medium-High Expenses
+female,no,northeast,41-50,Obese,No children,Medium-High Expenses
+female,yes,northwest,18-30,Over weight,No children,High Expenses
+male,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,southeast,51-60,Obese,3_children,Medium-High Expenses
+male,no,northwest,31-40,Obese,2_children,Medium-Low Expenses
+male,no,northeast,41-50,Obese,No children,Medium-Low Expenses
+male,no,southeast,31-40,Obese,3_children,Medium-Low Expenses
+male,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+male,yes,southwest,18-30,Normal weight,3_children,High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,southeast,51-60,Obese,1_child,Medium-High Expenses
+female,yes,southwest,41-50,Over weight,1_child,High Expenses
+female,no,southeast,31-40,Over weight,1_child,Low Expenses
+female,no,southwest,31-40,Over weight,3_children,Medium-Low Expenses
+male,no,northeast,51-60,Obese,No children,Medium-High Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,northeast,18-30,Normal weight,3_children,Medium-Low Expenses
+female,no,southeast,60+,Over weight,No children,Medium-High Expenses
+female,no,southeast,31-40,Obese,No children,Medium-Low Expenses
+male,no,southwest,18-30,Over weight,No children,Low Expenses
+female,no,northeast,18-30,Normal weight,No children,Low Expenses
+male,yes,southeast,51-60,Normal weight,No children,High Expenses
+female,no,northwest,31-40,Obese,2_children,Medium-Low Expenses
+male,yes,northwest,18-30,Over weight,No children,High Expenses
+male,no,southeast,18-30,Obese,2_children,Low Expenses
+female,no,northeast,18-30,Normal weight,1_child,Low Expenses
+female,no,southwest,51-60,Obese,No children,Medium-High Expenses
+male,yes,northeast,31-40,Normal weight,No children,High Expenses
+female,no,southeast,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,southeast,60+,Obese,No children,Medium-High Expenses
+male,no,southwest,18-30,Normal weight,1_child,Low Expenses
+female,yes,southeast,18-30,Obese,No children,High Expenses
+male,no,southeast,18-30,Over weight,No children,Low Expenses
+female,no,northwest,41-50,Obese,No children,Medium-Low Expenses
+female,no,northwest,31-40,Obese,1_child,High Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northeast,18-30,Over weight,1_child,Low Expenses
+female,no,southwest,41-50,Obese,3_children,Medium-High Expenses
+female,no,northwest,31-40,Obese,3_children,Medium-Low Expenses
+male,no,southeast,51-60,Normal weight,2_children,Medium-High Expenses
+male,no,northeast,18-30,Normal weight,2_children,Low Expenses
+male,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,northwest,18-30,Normal weight,No children,Low Expenses
+male,no,southwest,18-30,Obese,3_children,Low Expenses
+female,yes,northeast,41-50,Over weight,1_child,High Expenses
+female,yes,northwest,31-40,Obese,No children,High Expenses
+male,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northwest,18-30,Under weight,No children,Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,southeast,41-50,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,51-60,Normal weight,No children,Medium-High Expenses
+female,no,northeast,60+,Obese,2_children,Medium-High Expenses
+male,yes,southeast,51-60,Obese,2_children,High Expenses
+male,yes,northeast,31-40,Over weight,1_child,High Expenses
+male,yes,northeast,41-50,Obese,3_children,High Expenses
+male,no,northwest,31-40,Normal weight,1_child,Medium-Low Expenses
+male,no,southwest,60+,Obese,No children,Medium-High Expenses
+female,no,northwest,31-40,Over weight,No children,Medium-Low Expenses
+female,no,northwest,18-30,Normal weight,2_children,Low Expenses
+male,no,northwest,51-60,Obese,No children,Medium-High Expenses
+male,no,northwest,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southeast,41-50,Obese,2_children,Medium-Low Expenses
+male,no,southwest,31-40,Obese,No children,Low Expenses
+female,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+female,no,northeast,31-40,Normal weight,2_children,Medium-Low Expenses
+female,no,northwest,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,northeast,51-60,Normal weight,No children,Medium-High Expenses
+female,yes,southeast,18-30,Obese,2_children,High Expenses
+female,yes,southeast,51-60,Over weight,No children,High Expenses
+male,no,northeast,51-60,Obese,No children,Medium-High Expenses
+female,yes,southeast,51-60,Obese,No children,High Expenses
+female,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,southeast,18-30,Obese,1_child,Low Expenses
+female,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,no,northwest,51-60,Obese,No children,Medium-High Expenses
+female,yes,northeast,31-40,Obese,No children,High Expenses
+male,no,northwest,60+,Obese,2_children,Medium-High Expenses
+female,yes,northeast,41-50,Obese,No children,High Expenses
+female,no,northeast,51-60,Normal weight,2_children,Medium-High Expenses
+female,yes,northeast,41-50,Normal weight,3_children,High Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+female,yes,southeast,41-50,Obese,No children,High Expenses
+male,yes,northwest,18-30,Normal weight,No children,Medium-High Expenses
+female,no,southeast,18-30,Obese,1_child,High Expenses
+male,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+female,yes,southwest,31-40,Obese,2_children,High Expenses
+female,no,southwest,31-40,Over weight,3_children,Medium-Low Expenses
+female,no,northwest,51-60,Obese,2_children,Medium-High Expenses
+female,no,northeast,31-40,Normal weight,No children,Medium-Low Expenses
+male,no,southwest,51-60,Over weight,No children,Medium-Low Expenses
+male,no,southwest,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,northeast,60+,Normal weight,No children,Medium-High Expenses
+female,no,southwest,18-30,Normal weight,3_children,Low Expenses
+male,no,southwest,41-50,Obese,No children,Medium-Low Expenses
+female,no,southeast,18-30,Over weight,1_child,Low Expenses
+male,no,southeast,41-50,Normal weight,No children,Medium-Low Expenses
+male,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northeast,41-50,Normal weight,3_children,Medium-Low Expenses
+female,no,northwest,18-30,Over weight,No children,Low Expenses
+female,no,southwest,41-50,Over weight,1_child,High Expenses
+male,no,southeast,31-40,Obese,4+_children,Medium-Low Expenses
+male,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,southwest,18-30,Obese,3_children,Low Expenses
+male,no,northwest,18-30,Over weight,1_child,Low Expenses
+female,no,northeast,18-30,Normal weight,No children,Low Expenses
+female,yes,northeast,51-60,Obese,3_children,High Expenses
+male,no,northwest,18-30,Over weight,4+_children,Medium-Low Expenses
+male,yes,southeast,31-40,Over weight,1_child,High Expenses
+male,yes,northeast,51-60,Over weight,No children,High Expenses
+female,no,northwest,31-40,Obese,No children,Medium-Low Expenses
+male,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,northwest,51-60,Obese,1_child,Medium-High Expenses
+female,yes,northwest,60+,Over weight,No children,High Expenses
+female,no,southeast,31-40,Over weight,4+_children,Medium-Low Expenses
+male,no,northeast,51-60,Normal weight,No children,Medium-High Expenses
+male,yes,southeast,41-50,Obese,2_children,High Expenses
+male,no,northeast,60+,Obese,No children,Medium-High Expenses
+female,no,southwest,60+,Obese,No children,Medium-High Expenses
+female,yes,northeast,41-50,Normal weight,2_children,High Expenses
+male,no,northwest,18-30,Over weight,1_child,Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,northwest,18-30,Normal weight,No children,Low Expenses
+male,no,northeast,41-50,Normal weight,No children,Medium-Low Expenses
+male,yes,southeast,51-60,Obese,No children,High Expenses
+male,no,northeast,18-30,Over weight,3_children,Low Expenses
+male,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+female,no,southwest,51-60,Obese,No children,Medium-High Expenses
+female,no,northeast,18-30,Over weight,2_children,Low Expenses
+male,no,northeast,18-30,Obese,3_children,Medium-Low Expenses
+female,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+male,no,southwest,60+,Obese,3_children,Medium-High Expenses
+female,yes,southwest,31-40,Normal weight,No children,High Expenses
+male,no,northwest,18-30,Over weight,1_child,Low Expenses
+male,yes,northeast,18-30,Obese,No children,High Expenses
+female,no,northwest,51-60,Over weight,3_children,Medium-High Expenses
+female,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+male,no,northwest,31-40,Normal weight,2_children,Medium-Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,yes,northwest,41-50,Over weight,No children,High Expenses
+male,yes,northeast,41-50,Normal weight,No children,High Expenses
+female,no,southwest,60+,Over weight,No children,Medium-High Expenses
+female,no,southeast,31-40,Obese,1_child,Medium-Low Expenses
+female,no,southwest,60+,Over weight,No children,Medium-High Expenses
+female,no,southwest,60+,Obese,No children,Medium-High Expenses
+male,no,southwest,31-40,Obese,1_child,Medium-Low Expenses
+male,no,northwest,31-40,Obese,No children,Low Expenses
+male,no,southwest,41-50,Normal weight,No children,Medium-Low Expenses
+male,no,northeast,41-50,Obese,2_children,High Expenses
+female,no,southwest,18-30,Normal weight,2_children,Low Expenses
+female,no,southwest,51-60,Normal weight,1_child,Medium-High Expenses
+female,no,southeast,60+,Obese,No children,Medium-High Expenses
+male,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+male,no,southeast,18-30,Obese,1_child,Low Expenses
+female,no,southwest,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southwest,41-50,Over weight,4+_children,Medium-High Expenses
+female,no,southwest,41-50,Obese,No children,Medium-Low Expenses
+male,no,southeast,31-40,Obese,2_children,Low Expenses
+female,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+male,no,northeast,41-50,Over weight,2_children,High Expenses
+female,no,northwest,31-40,Normal weight,4+_children,Medium-Low Expenses
+male,no,southeast,18-30,Over weight,2_children,Low Expenses
+male,no,southeast,51-60,Over weight,No children,Medium-High Expenses
+male,no,southeast,18-30,Normal weight,No children,NA
+female,no,southeast,41-50,Obese,1_child,Medium-High Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+male,no,northwest,18-30,Normal weight,No children,Low Expenses
+male,no,southeast,60+,Obese,No children,Medium-High Expenses
+female,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+male,yes,northeast,31-40,Obese,1_child,High Expenses
+male,no,northwest,41-50,Obese,No children,Medium-Low Expenses
+male,yes,southwest,18-30,Over weight,3_children,High Expenses
+male,no,northeast,51-60,Under weight,No children,Medium-High Expenses
+male,yes,southeast,51-60,Obese,2_children,High Expenses
+female,no,northwest,18-30,Over weight,1_child,Low Expenses
+male,yes,southwest,41-50,Obese,2_children,High Expenses
+male,yes,northwest,31-40,Over weight,1_child,High Expenses
+male,no,southeast,31-40,Obese,1_child,Low Expenses
+male,yes,southeast,51-60,Obese,1_child,High Expenses
+male,no,northwest,18-30,Over weight,1_child,Medium-High Expenses
+male,yes,northeast,41-50,Obese,1_child,High Expenses
+male,no,northwest,41-50,Obese,1_child,High Expenses
+female,no,northwest,18-30,Obese,1_child,Low Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+female,no,southeast,60+,Obese,1_child,Medium-High Expenses
+male,no,northeast,41-50,Normal weight,3_children,Medium-High Expenses
+male,no,northwest,51-60,Obese,2_children,High Expenses
+male,no,southwest,31-40,Over weight,1_child,Medium-Low Expenses
+male,yes,northwest,51-60,Normal weight,2_children,High Expenses
+male,no,northwest,41-50,Over weight,1_child,Medium-Low Expenses
+male,no,northeast,18-30,Over weight,2_children,Low Expenses
+female,no,southeast,31-40,Obese,4+_children,Medium-Low Expenses
+female,no,southeast,41-50,Over weight,3_children,Medium-High Expenses
+female,no,northeast,31-40,Normal weight,No children,Medium-Low Expenses
+female,no,northwest,18-30,Normal weight,No children,Low Expenses
+female,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,yes,northeast,18-30,Normal weight,No children,Medium-High Expenses
+male,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+male,no,southeast,18-30,Over weight,1_child,Low Expenses
+female,no,northeast,41-50,Obese,3_children,Medium-High Expenses
+female,no,southeast,31-40,Over weight,No children,Medium-Low Expenses
+male,no,northeast,51-60,Over weight,1_child,High Expenses
+male,no,northeast,31-40,Normal weight,No children,Low Expenses
+male,yes,southwest,31-40,Over weight,3_children,High Expenses
+female,no,northeast,18-30,Obese,1_child,High Expenses
+male,no,northeast,18-30,Obese,4+_children,Medium-Low Expenses
+female,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+male,no,northwest,41-50,Obese,3_children,Medium-Low Expenses
+female,no,northwest,41-50,Over weight,1_child,High Expenses
+male,no,northeast,31-40,Obese,No children,Low Expenses
+female,yes,northeast,18-30,Normal weight,No children,Medium-High Expenses
+female,no,southwest,18-30,Normal weight,1_child,Low Expenses
+female,no,northeast,31-40,Over weight,2_children,Medium-Low Expenses
+female,no,southwest,41-50,Obese,2_children,Medium-High Expenses
+male,no,southeast,31-40,Over weight,1_child,Medium-Low Expenses
+female,yes,northwest,18-30,Normal weight,3_children,Medium-High Expenses
+female,no,northeast,31-40,Normal weight,3_children,Medium-Low Expenses
+female,no,southwest,31-40,Obese,3_children,Medium-Low Expenses
+female,no,southeast,60+,Obese,No children,Medium-High Expenses
+female,no,northeast,31-40,Obese,3_children,Medium-Low Expenses
+female,no,northwest,31-40,Over weight,No children,Medium-Low Expenses
+male,yes,northwest,18-30,Normal weight,2_children,High Expenses
+male,yes,southwest,18-30,Obese,No children,High Expenses
+male,no,southwest,18-30,Over weight,No children,Low Expenses
+male,no,southwest,41-50,Over weight,No children,High Expenses
+male,no,northeast,41-50,Normal weight,1_child,Medium-Low Expenses
+male,no,northwest,18-30,Obese,2_children,Low Expenses
+male,no,northeast,18-30,Over weight,2_children,Low Expenses
+male,yes,northwest,41-50,Over weight,3_children,High Expenses
+male,no,northeast,18-30,Over weight,2_children,High Expenses
+male,no,northeast,51-60,Over weight,1_child,Medium-High Expenses
+female,no,southwest,41-50,Normal weight,No children,Medium-Low Expenses
+male,yes,southeast,41-50,Normal weight,2_children,High Expenses
+female,no,southeast,60+,Obese,4+_children,High Expenses
+male,no,northwest,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southwest,31-40,Over weight,No children,Medium-Low Expenses
+male,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,northwest,18-30,Normal weight,1_child,Low Expenses
+female,no,southwest,18-30,Obese,2_children,Low Expenses
+female,no,northwest,51-60,Obese,3_children,Medium-High Expenses
+female,no,northwest,18-30,Obese,2_children,High Expenses
+male,no,southwest,51-60,Obese,No children,Medium-Low Expenses
+female,yes,southeast,18-30,Obese,3_children,High Expenses
+male,yes,southeast,41-50,Obese,1_child,High Expenses
+male,no,southeast,18-30,Normal weight,1_child,Low Expenses
+female,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southwest,18-30,Obese,No children,Low Expenses
+male,yes,northwest,18-30,Over weight,1_child,Medium-High Expenses
+male,no,northwest,18-30,Normal weight,No children,High Expenses
+male,no,southwest,51-60,Obese,No children,Medium-High Expenses
+female,no,northeast,31-40,Under weight,2_children,Medium-Low Expenses
+female,yes,northwest,41-50,Normal weight,1_child,High Expenses
+female,yes,southeast,51-60,Obese,No children,High Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+male,yes,northeast,18-30,Normal weight,No children,Medium-High Expenses
+male,no,northwest,60+,Obese,No children,Medium-High Expenses
+female,no,southwest,51-60,Normal weight,3_children,Medium-High Expenses
+male,yes,southeast,18-30,Obese,2_children,High Expenses
+female,yes,northwest,41-50,Obese,1_child,High Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+male,no,northwest,18-30,Over weight,2_children,High Expenses
+female,yes,northwest,31-40,Over weight,No children,High Expenses
+male,no,northeast,18-30,Normal weight,No children,Low Expenses
+male,yes,northeast,18-30,Obese,No children,High Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+male,no,northeast,51-60,Obese,1_child,Medium-High Expenses
+female,yes,northwest,41-50,Normal weight,2_children,High Expenses
+female,no,northeast,41-50,Over weight,No children,Medium-Low Expenses
+male,yes,southeast,18-30,Obese,1_child,High Expenses
+female,no,northwest,18-30,Normal weight,1_child,Low Expenses
+male,yes,southwest,41-50,Obese,No children,High Expenses
+female,no,northwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northeast,60+,Over weight,No children,Medium-High Expenses
+male,no,northeast,41-50,Over weight,1_child,Medium-Low Expenses
+male,yes,southwest,41-50,Over weight,3_children,High Expenses
+female,no,northwest,18-30,Normal weight,No children,Low Expenses
+male,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,southwest,41-50,Over weight,No children,Medium-Low Expenses
+female,no,southeast,41-50,Obese,No children,High Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northwest,31-40,Obese,1_child,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,southeast,51-60,Over weight,1_child,Medium-High Expenses
+male,yes,southeast,51-60,Obese,1_child,High Expenses
+male,no,northwest,31-40,Over weight,3_children,Medium-Low Expenses
+female,no,southwest,18-30,Over weight,4+_children,Medium-Low Expenses
+female,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+male,no,southeast,41-50,Obese,2_children,Medium-Low Expenses
+male,no,northeast,31-40,Obese,No children,Medium-Low Expenses
+male,no,northwest,60+,Normal weight,1_child,Medium-High Expenses
+female,no,southeast,51-60,Obese,1_child,Medium-High Expenses
+male,yes,southeast,31-40,Obese,1_child,High Expenses
+male,no,northeast,60+,Obese,No children,Medium-High Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,northeast,51-60,Over weight,2_children,Medium-High Expenses
+female,no,northeast,51-60,Under weight,No children,Medium-High Expenses
+female,no,southeast,31-40,Over weight,1_child,Low Expenses
+female,no,southwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+male,yes,southeast,18-30,Obese,No children,High Expenses
+male,no,southeast,60+,Obese,3_children,Medium-High Expenses
+male,no,southeast,18-30,Normal weight,2_children,Medium-High Expenses
+male,no,northwest,31-40,Over weight,1_child,Low Expenses
+male,no,northwest,31-40,Normal weight,1_child,Medium-Low Expenses
+male,no,southwest,31-40,Obese,1_child,Low Expenses
+female,no,northwest,60+,Obese,2_children,Medium-High Expenses
+female,yes,southwest,31-40,Under weight,4+_children,High Expenses
+male,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+male,no,northwest,51-60,Obese,No children,Medium-High Expenses
+male,no,southeast,51-60,Obese,1_child,Medium-High Expenses
+male,no,southwest,51-60,Normal weight,No children,Medium-High Expenses
+male,yes,southeast,41-50,Obese,No children,High Expenses
+female,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+male,no,southwest,18-30,Obese,3_children,Low Expenses
+female,yes,northwest,18-30,Obese,No children,High Expenses
+female,no,southwest,41-50,Obese,4+_children,Medium-High Expenses
+female,no,northeast,18-30,Obese,4+_children,Low Expenses
+female,yes,northeast,51-60,Obese,2_children,High Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,northeast,51-60,Obese,No children,High Expenses
+female,no,southeast,18-30,Obese,1_child,Low Expenses
+female,yes,northeast,31-40,Normal weight,2_children,High Expenses
+male,no,southwest,51-60,Over weight,3_children,Medium-High Expenses
+male,no,southeast,18-30,Obese,1_child,Low Expenses
+male,no,southeast,51-60,Obese,No children,Medium-High Expenses
+male,no,southwest,31-40,Over weight,No children,High Expenses
+female,no,southeast,51-60,Obese,No children,Medium-High Expenses
+female,no,northwest,41-50,Over weight,No children,Medium-Low Expenses
+female,no,northwest,41-50,Over weight,2_children,Medium-High Expenses
+male,no,southwest,18-30,Obese,1_child,Low Expenses
+male,no,southeast,41-50,Normal weight,3_children,Medium-Low Expenses
+female,no,northeast,51-60,Obese,1_child,Medium-High Expenses
+male,yes,southeast,31-40,Obese,3_children,High Expenses
+female,yes,southeast,41-50,Over weight,3_children,High Expenses
+female,no,northwest,18-30,Over weight,3_children,Medium-Low Expenses
+male,no,northeast,18-30,Normal weight,No children,Low Expenses
+male,no,southeast,51-60,Obese,1_child,Medium-High Expenses
+male,no,northeast,41-50,Over weight,4+_children,Medium-Low Expenses
+male,yes,southeast,18-30,Obese,2_children,High Expenses
+male,yes,southeast,31-40,Obese,1_child,High Expenses
+female,no,northwest,18-30,Normal weight,3_children,Medium-Low Expenses
+female,yes,southwest,18-30,Obese,No children,High Expenses
+male,no,southeast,41-50,Obese,2_children,Medium-Low Expenses
+female,yes,northwest,51-60,Obese,3_children,High Expenses
+female,no,northeast,18-30,Obese,1_child,High Expenses
+female,yes,northeast,18-30,Obese,1_child,High Expenses
+female,no,northwest,60+,Over weight,No children,Medium-High Expenses
+male,no,southwest,51-60,Over weight,No children,Medium-High Expenses
+female,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+male,no,southwest,31-40,Obese,1_child,Medium-High Expenses
+female,no,southwest,18-30,Normal weight,No children,Low Expenses
+female,no,southeast,31-40,Normal weight,4+_children,Medium-Low Expenses
+male,no,southwest,18-30,Obese,2_children,Low Expenses
+male,no,northeast,51-60,Obese,No children,High Expenses
+female,no,northwest,51-60,Under weight,No children,Medium-High Expenses
+male,no,northwest,18-30,Obese,No children,High Expenses
+female,no,northwest,41-50,Over weight,3_children,Medium-High Expenses
+female,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,northwest,18-30,Normal weight,No children,Low Expenses
+male,no,southeast,31-40,Obese,No children,Low Expenses
+female,yes,northwest,18-30,Obese,No children,High Expenses
+male,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,southwest,41-50,Obese,3_children,Medium-Low Expenses
+female,no,southeast,51-60,Normal weight,No children,High Expenses
+male,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+male,no,southwest,41-50,Obese,2_children,Medium-High Expenses
+male,no,northwest,51-60,Obese,3_children,Medium-High Expenses
+male,yes,southwest,51-60,Obese,No children,High Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,southwest,51-60,Normal weight,1_child,Medium-High Expenses
+male,no,southwest,41-50,Obese,No children,Medium-Low Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,northwest,51-60,Obese,No children,Medium-High Expenses
+female,yes,southeast,41-50,Obese,3_children,High Expenses
+female,no,northwest,31-40,Obese,1_child,Medium-Low Expenses
+female,no,northwest,41-50,Over weight,4+_children,Medium-High Expenses
+female,no,northeast,31-40,Normal weight,3_children,Medium-Low Expenses
+male,yes,southeast,18-30,Obese,No children,High Expenses
+female,no,northwest,18-30,Normal weight,2_children,Medium-High Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,southwest,31-40,Obese,No children,Low Expenses
+female,no,northwest,41-50,Obese,1_child,Medium-Low Expenses
+male,no,southeast,31-40,Obese,2_children,Medium-Low Expenses
+male,no,southeast,18-30,Obese,1_child,High Expenses
+female,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,northwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,northeast,31-40,Over weight,No children,Medium-Low Expenses
+male,no,southeast,51-60,Obese,No children,Medium-High Expenses
+female,no,southwest,18-30,Normal weight,2_children,Low Expenses
+male,no,southwest,31-40,Obese,2_children,Low Expenses
+female,no,northwest,31-40,Obese,1_child,Medium-Low Expenses
+male,yes,northeast,18-30,Over weight,1_child,High Expenses
+female,yes,southwest,41-50,Over weight,2_children,High Expenses
+female,no,southeast,51-60,Obese,No children,Medium-High Expenses
+male,no,northwest,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,18-30,Obese,2_children,Low Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+female,yes,northwest,51-60,Normal weight,1_child,High Expenses
+female,no,southwest,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+male,yes,southeast,31-40,Over weight,No children,High Expenses
+female,no,northeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,northwest,18-30,Over weight,No children,Low Expenses
+female,no,southwest,18-30,Obese,No children,Low Expenses
+female,no,northeast,41-50,Over weight,1_child,Medium-High Expenses
+female,yes,southeast,18-30,Over weight,1_child,High Expenses
+male,no,northeast,41-50,Normal weight,2_children,Medium-Low Expenses
+male,yes,northwest,18-30,Obese,3_children,High Expenses
+female,no,northwest,60+,Obese,No children,Medium-High Expenses
+female,yes,northeast,41-50,Over weight,1_child,High Expenses
+female,no,southwest,18-30,Over weight,No children,Medium-High Expenses
+female,no,northwest,31-40,Obese,2_children,Medium-Low Expenses
+female,no,northeast,41-50,Normal weight,1_child,Medium-High Expenses
+female,no,northeast,51-60,Obese,1_child,Medium-High Expenses
+female,no,northwest,41-50,Obese,No children,Medium-Low Expenses
+female,no,northwest,31-40,Normal weight,No children,Low Expenses
+female,no,northwest,18-30,Over weight,3_children,High Expenses
+female,yes,northwest,18-30,Obese,No children,High Expenses
+male,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+male,no,northwest,31-40,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,31-40,Normal weight,2_children,Medium-Low Expenses
+male,no,northwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,northeast,51-60,Obese,1_child,Medium-High Expenses
+female,yes,southeast,18-30,Over weight,3_children,High Expenses
+male,no,northwest,31-40,Under weight,1_child,Medium-Low Expenses
+female,no,southwest,51-60,Obese,2_children,High Expenses
+male,yes,southwest,31-40,Obese,2_children,High Expenses
+female,yes,northeast,31-40,Over weight,1_child,High Expenses
+male,no,southwest,51-60,Obese,1_child,Medium-High Expenses
+male,no,northwest,31-40,Obese,1_child,Medium-Low Expenses
+male,no,southeast,31-40,Obese,2_children,High Expenses
+male,no,northeast,18-30,Normal weight,No children,Low Expenses
+female,no,southwest,51-60,Obese,2_children,Medium-High Expenses
+female,no,northwest,18-30,Obese,1_child,Low Expenses
+male,no,northeast,18-30,Obese,No children,Medium-High Expenses
+male,no,southeast,31-40,Over weight,No children,Medium-Low Expenses
+male,no,southeast,18-30,Obese,2_children,Low Expenses
+female,yes,southwest,41-50,Obese,1_child,High Expenses
+female,no,northwest,31-40,Obese,3_children,Medium-Low Expenses
+female,no,northeast,18-30,Normal weight,1_child,Low Expenses
+male,no,southeast,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,southeast,41-50,Over weight,No children,Medium-Low Expenses
+female,yes,southeast,18-30,Normal weight,No children,High Expenses
+male,no,northeast,41-50,Normal weight,1_child,Medium-Low Expenses
+female,no,southeast,31-40,Obese,1_child,Medium-Low Expenses
+male,no,northeast,31-40,Under weight,2_children,Medium-Low Expenses
+male,no,southeast,41-50,Obese,2_children,Medium-Low Expenses
+male,no,southeast,51-60,Obese,No children,Medium-High Expenses
+male,no,northeast,51-60,Obese,No children,Medium-High Expenses
+male,yes,northwest,51-60,Obese,3_children,High Expenses
+female,yes,southwest,18-30,Normal weight,No children,High Expenses
+female,no,northwest,51-60,Normal weight,3_children,Medium-High Expenses
+male,no,southwest,51-60,Normal weight,No children,Medium-High Expenses
+female,no,southeast,41-50,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,18-30,Obese,No children,Low Expenses
+female,no,northeast,60+,Normal weight,No children,Medium-High Expenses
+female,no,northwest,51-60,Over weight,No children,Medium-High Expenses
+male,no,northeast,31-40,Normal weight,3_children,Medium-Low Expenses
+female,no,southeast,18-30,Obese,1_child,Low Expenses
+male,yes,southeast,51-60,Obese,2_children,High Expenses
+male,yes,southeast,60+,Obese,2_children,High Expenses
+female,no,northwest,18-30,Normal weight,3_children,Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,southwest,18-30,Normal weight,4+_children,Medium-Low Expenses
+female,no,southwest,41-50,Over weight,3_children,Medium-Low Expenses
+male,no,southwest,31-40,Over weight,4+_children,Medium-Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+male,yes,northeast,31-40,Obese,1_child,High Expenses
+male,yes,northeast,18-30,Over weight,No children,High Expenses
+male,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,yes,southwest,18-30,Over weight,No children,Medium-High Expenses
+female,no,southwest,31-40,Over weight,4+_children,Medium-High Expenses
+female,no,southeast,31-40,Over weight,No children,Low Expenses
+female,no,southwest,41-50,Obese,No children,Medium-Low Expenses
+female,no,northwest,51-60,Obese,3_children,Medium-High Expenses
+female,no,northwest,51-60,Over weight,1_child,Medium-High Expenses
+male,no,northwest,51-60,Obese,3_children,High Expenses
+female,no,northeast,51-60,Normal weight,No children,Medium-High Expenses
+female,no,northeast,31-40,Normal weight,No children,Low Expenses
+male,no,southwest,18-30,Obese,1_child,Low Expenses
+female,no,southeast,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,southwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,northeast,41-50,Obese,2_children,Medium-High Expenses
+male,yes,southeast,60+,Normal weight,No children,High Expenses
+female,no,southwest,51-60,Obese,No children,Medium-High Expenses
+male,yes,northeast,18-30,Obese,No children,High Expenses
+female,no,southwest,18-30,Obese,No children,Low Expenses
+male,no,southwest,41-50,Over weight,3_children,Medium-Low Expenses
+male,no,northwest,18-30,Obese,1_child,Low Expenses
+female,no,northwest,18-30,Obese,No children,Low Expenses
+male,no,southeast,41-50,Over weight,4+_children,Medium-High Expenses
+male,no,southeast,31-40,Over weight,1_child,Medium-Low Expenses
+male,yes,southeast,18-30,Over weight,No children,High Expenses
+male,no,southwest,51-60,Normal weight,No children,Medium-High Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,northwest,31-40,Over weight,No children,Low Expenses
+male,yes,northeast,31-40,Over weight,1_child,High Expenses
+female,no,northwest,18-30,Over weight,2_children,Low Expenses
+female,no,southeast,41-50,Obese,No children,Medium-Low Expenses
+female,yes,northwest,41-50,Over weight,2_children,High Expenses
+female,yes,northeast,18-30,Normal weight,No children,Medium-High Expenses
+male,no,southeast,18-30,Obese,1_child,Low Expenses
+male,yes,southwest,60+,Obese,1_child,High Expenses
+female,no,northeast,41-50,Normal weight,No children,Medium-Low Expenses
+female,no,northeast,18-30,Under weight,No children,Low Expenses
+female,no,southwest,31-40,Over weight,1_child,Medium-Low Expenses
+male,yes,southwest,18-30,Obese,2_children,High Expenses
+male,no,southeast,41-50,Obese,1_child,Medium-Low Expenses
+female,no,northeast,31-40,Normal weight,2_children,Medium-Low Expenses
+male,yes,southwest,18-30,Obese,No children,High Expenses
+male,no,southeast,18-30,Normal weight,No children,Low Expenses
+male,no,northwest,41-50,Over weight,3_children,Medium-Low Expenses
+male,no,northeast,51-60,Over weight,No children,Medium-High Expenses
+male,no,southwest,18-30,Normal weight,1_child,Low Expenses
+male,no,northeast,18-30,Over weight,No children,Low Expenses
+female,no,southeast,18-30,Over weight,2_children,Low Expenses
+male,no,northwest,31-40,Over weight,2_children,Medium-Low Expenses
+female,no,northwest,18-30,Over weight,1_child,Low Expenses
+male,yes,southeast,41-50,Obese,No children,High Expenses
+male,yes,northwest,60+,Obese,3_children,High Expenses
+female,no,southwest,18-30,Normal weight,1_child,Low Expenses
+male,yes,southwest,41-50,Over weight,No children,High Expenses
+male,yes,northeast,41-50,Normal weight,2_children,High Expenses
+female,no,southeast,18-30,Over weight,No children,Low Expenses
+female,yes,northeast,18-30,Normal weight,No children,Medium-High Expenses
+male,yes,northwest,31-40,Over weight,4+_children,High Expenses
+female,yes,southwest,18-30,Obese,No children,High Expenses
+male,no,southwest,41-50,Obese,2_children,Medium-Low Expenses
+male,no,northwest,41-50,Over weight,1_child,Medium-Low Expenses
+female,no,northwest,31-40,Over weight,No children,Low Expenses
+male,no,southwest,31-40,Obese,1_child,Low Expenses
+female,yes,southwest,18-30,Obese,2_children,High Expenses
+female,yes,northwest,18-30,Normal weight,3_children,High Expenses
+male,no,northeast,18-30,Over weight,1_child,Medium-High Expenses
+female,no,southwest,18-30,Normal weight,No children,Low Expenses
+male,no,southeast,18-30,Obese,No children,Low Expenses
+male,no,northeast,31-40,Obese,4+_children,High Expenses
+female,no,northwest,31-40,Over weight,2_children,Medium-Low Expenses
+male,no,northwest,31-40,Obese,3_children,Medium-Low Expenses
+male,yes,northeast,60+,Over weight,No children,High Expenses
+male,no,southeast,60+,Obese,No children,Medium-High Expenses
+female,yes,southeast,41-50,Obese,2_children,High Expenses
+male,no,northwest,31-40,Over weight,1_child,Low Expenses
+male,no,northeast,60+,Obese,No children,Medium-High Expenses
+female,no,northeast,41-50,Obese,No children,Medium-Low Expenses
+male,no,southeast,51-60,Obese,1_child,Medium-Low Expenses
+female,no,northeast,18-30,Normal weight,2_children,High Expenses
+male,no,southwest,51-60,Obese,2_children,Medium-High Expenses
+female,no,southeast,51-60,Over weight,2_children,Medium-High Expenses
+female,no,southwest,18-30,Obese,No children,Medium-High Expenses
+female,no,southwest,51-60,Obese,3_children,Medium-High Expenses
+male,no,northwest,41-50,Obese,3_children,Medium-High Expenses
+female,no,northeast,18-30,Obese,No children,Low Expenses
+female,no,southeast,18-30,Obese,No children,Low Expenses
+female,no,southwest,18-30,Over weight,No children,Low Expenses
+female,yes,northwest,60+,Over weight,No children,High Expenses
