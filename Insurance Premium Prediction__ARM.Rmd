@@ -151,9 +151,8 @@ inspect(head(rule1,5))
 plot(rule1, method="graph")
 ```
 
-![](http://127.0.0.1:32067/chunk_output/A3F3C556441a3ea7/30414ED7/cf8difxjh1yd6/000012.png)
-
 ```{r}
+plot(rule1, method =  "paracoord")
 ```
 
 **Insight from ARM analysis :**
@@ -164,3 +163,60 @@ From these Top rules, the Southeast region (lhs→anteceent ) has a high associa
 write.csv(df, file = "Dataset_ARM.csv", row.names = FALSE)
 
 ```
+
+### case 2:
+
+Generate association rules for smokers with high BMI and high expenses: This analysis would help to identify smokers with high BMI who have high healthcare expenses. This information could be useful for developing targeted interventions to reduce smoking-related health problems and costs in this population.
+
+```{r}
+
+# Select individuals who are smokers with high BMI and high expenses
+
+case2_df <- subset(df, smoker == "yes" & bmi_group == "Over weight" | bmi_group == "Obese" & expenses_group == "High Expenses")
+
+case2_df 
+
+```
+
+```{r}
+
+rule2 <- apriori(case2_df, parameter=list(suppor = 0.02, confidence = 0.8))
+
+inspect(head(rule2,15))
+```
+
+```{r}
+plot(rule2, method="grouped")
+```
+
+```{r}
+# Sort rules by confidence
+rules_conf <- sort(rule2, by="confidence", decreasing=TRUE)
+inspect(rules_conf[1:10])
+```
+
+```{r}
+# Sort rules by support
+rules_conf <- sort(rule2, by="support", decreasing=TRUE)
+inspect(rules_conf[1:10])
+```
+
+```{r}
+# Sort rules by lift
+rules_conf <- sort(rule2, by="lift", decreasing=TRUE)
+inspect(rules_conf[1:10])
+```
+
+```{r}
+plot(rule2, method="grouped matrix")
+```
+
+```{r}
+plot(rule2, method="two-key plot")
+```
+
+**Insight from ARM analysis :**
+
+These findings can be used to develop tailored interventions to reduce smoking-related health problems and expenses in this population.By identifying the association rules between smoking status, BMI, and healthcare expenses, we can pinpoint which individuals are at the highest risk for smoking-related health issues and high healthcare costs. This knowledge can help healthcare providers and policymakers create evidence-based policies and interventions to improve public health outcomes.
+
+Moreover, this analysis can aid in understanding the complex relationships between lifestyle choices, such as smoking and BMI, and their impact on healthcare costs. The insights gained from this analysis can inform public health strategies aimed at promoting healthy lifestyle choices and reducing healthcare costs associated with smoking-related illnesses.
